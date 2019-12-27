@@ -1,0 +1,6 @@
+[
+ {"id":1,"name":"Peter","dept":"Accounts","salary":12000,"time":"Mon Dec 09 20:55:47 IST 2019"},
+ {"id":2,"name":"Sam","dept":"Finance","salary":13000,"time":"Mon Dec 09 20:55:47 IST 2019"},
+ {"id":3,"name":"Jonh","dept":"IT","salary":14000,"time":"Mon Dec 09 20:55:47 IST 2019"},
+ {"id":4,"name":"Olive","salary":15000,"time":"Mon Dec 09 20:55:47 IST 2019"}
+]

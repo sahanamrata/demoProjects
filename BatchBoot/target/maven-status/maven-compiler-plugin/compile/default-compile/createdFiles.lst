@@ -1,0 +1,7 @@
+com\example\BatchBoot\BatchBootApplication.class
+com\example\BatchBoot\config\SpringBatchConfig.class
+com\example\BatchBoot\processor\Processor.class
+com\example\BatchBoot\repository\UserRepository.class
+com\example\BatchBoot\writer\writer.class
+com\example\BatchBoot\controller\JobTriggerController.class
+com\example\BatchBoot\model\User.class

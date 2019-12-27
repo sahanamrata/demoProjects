@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.BatchBoot.BatchBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.605 s - in com.example.BatchBoot.BatchBootApplicationTests
